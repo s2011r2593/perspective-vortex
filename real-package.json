@@ -1,0 +1,17 @@
+{
+    "name": "perspective-vortex",
+    "collaborators": [
+      "Sean Rhee <seanrhee2024@u.northwestern.edu>"
+    ],
+    "version": "0.1.4",
+    "files": [
+      "perspective_vortex_bg.js",
+      "perspective_vortex_bg.wasm",
+      "perspective_vortex_bg.wasm.d.ts",
+      "perspective_vortex.d.ts",
+      "perspective_vortex.js"
+    ],
+    "module": "perspective_vortex.js",
+    "types": "perspective_vortex.d.ts",
+    "sideEffects": false
+  }
